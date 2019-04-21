@@ -1,53 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ANIMAL PLANET***" tvg-name="ANIMAL PLANET" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentários",ANIMAL PLANET
-http://streamtv.com.br:80/malek/malek/1665
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1665
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD***" tvg-name="ANIMAL PLANET HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentários",ANIMAL PLANET HD
-http://streamtv.com.br:80/malek/malek/231
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/231
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL***" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentários",DISCOVERY CHANNEL
-http://streamtv.com.br:80/malek/malek/1647
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1647
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD***" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentários",DISCOVERY CHANNEL HD
-http://streamtv.com.br:80/malek/malek/215
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/215
 #EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION***" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentários",DISCOVERY CIVILIZATION
-http://streamtv.com.br:80/malek/malek/1646
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1646
 #EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD***" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentários",DISCOVERY CIVILIZATION HD
-http://streamtv.com.br:80/malek/malek/214
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/214
 #EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD***" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20&%20Health%20HD.png" group-title="Documentários",DISCOVERY HOME & HEALTH
-http://streamtv.com.br:80/malek/malek/1645
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1645
 #EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD***" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20&%20Health%20HD.png" group-title="Documentários",DISCOVERY HOME & HEALTH HD
-http://streamtv.com.br:80/malek/malek/213
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/213
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE***" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://printv.esy.es/server/Discovery%20Science.png" group-title="Documentários",DISCOVERY SCIENCE
-http://streamtv.com.br:80/malek/malek/1643
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1643
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD***" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://printv.esy.es/server/Discovery%20Science.png" group-title="Documentários",DISCOVERY SCIENCE HD
-http://streamtv.com.br:80/malek/malek/211
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/211
 #EXTINF:-1 tvg-id="DISCOVERY THEATER HD***" tvg-name="DISCOVERY THEATER" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentários",DISCOVERY THEATER
-http://streamtv.com.br:80/malek/malek/1642
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1642
 #EXTINF:-1 tvg-id="DISCOVERY THEATER HD***" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentários",DISCOVERY THEATER HD
-http://streamtv.com.br:80/malek/malek/210
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/210
 #EXTINF:-1 tvg-id="DISCOVERY TURBO***" tvg-name="DISCOVERY TURBO" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentários",DISCOVERY TURBO
-http://streamtv.com.br:80/malek/malek/1641
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1641
 #EXTINF:-1 tvg-id="DISCOVERY TURBO HD***" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentários",DISCOVERY TURBO HD
-http://streamtv.com.br:80/malek/malek/209
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/209
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD***" tvg-name="DISCOVERY WORLD" tvg-logo="http://printv.esy.es/server/Discovery%20World.png" group-title="Documentários",DISCOVERY WORLD
-http://streamtv.com.br:80/malek/malek/1640
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1640
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD-[FONTE 2]" tvg-name="DISCOVERY WORLD  HD" tvg-logo="http://printv.esy.es/server/Discovery%20World.png" group-title="Documentários",DISCOVERY WORLD  HD
-http://streamtv.com.br:80/malek/malek/208
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/208
 #EXTINF:-1 tvg-id="H2 HD***" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Filmes / Séries",H2 HD
-http://streamtv.com.br:80/malek/malek/173
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/173
 #EXTINF:-1 tvg-id="H2 SD***" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Filmes / Séries",H2
-http://streamtv.com.br:80/malek/malek/1600
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1600
 #EXTINF:-1 tvg-id="HISTORY***" tvg-name="HISTORY" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentários",HISTORY
-http://streamtv.com.br:80/malek/malek/1593
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1593
 #EXTINF:-1 tvg-id="HISTORY HD***" tvg-name="HISTORY HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentários",HISTORY HD
-http://streamtv.com.br:80/malek/malek/167
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/167
 #EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY***" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentários",INVESTIGATION DISCOVERY
-http://streamtv.com.br:80/malek/malek/1592
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1592
 #EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD***" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentários",INVESTIGATION DISCOVERY HD
-http://streamtv.com.br:80/malek/malek/166
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/166
 #EXTINF:-1 tvg-id="NAT GEO***" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Documentários",NAT GEO
-http://streamtv.com.br:80/malek/malek/1581
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1581
 #EXTINF:-1 tvg-id="NAT GEO HD***" tvg-name="NAT GEO HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Documentários",NAT GEO HD
-http://streamtv.com.br:80/malek/malek/156
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/156
 #EXTINF:-1 tvg-id="NAT GEO WILD HD***" tvg-name="NAT GEO WILD HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentários",NAT GEO WILD HD
-http://streamtv.com.br:80/malek/malek/154
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/154
 #EXTINF:-1 tvg-id="NAT GEO WILD HD***" tvg-name="NATGEO WILD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentários",NATGEO WILD
-http://streamtv.com.br:80/malek/malek/1579
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1579
